@@ -28,3 +28,6 @@ to those previously engaged with by the user.
 preferences.
 This approach ensures that recommendations are both efficient and relevant, enhancing the
 overall listening experience.
+
+![WhatsApp Image 2025-04-09 at 10 41 14_6d04ce16](https://github.com/user-attachments/assets/f8cd5735-769f-4c5b-85f8-652bf14535c8)
+
